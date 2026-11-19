@@ -1,0 +1,27 @@
+{
+  "name": "دفتر گزارش کار مطالعه",
+  "short_name": "دفتر مطالعه",
+  "description": "ثبت و تحلیل آفلاین گزارش مطالعه",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10131b",
+  "theme_color": "#10131b",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
